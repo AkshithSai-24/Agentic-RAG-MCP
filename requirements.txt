@@ -1,0 +1,14 @@
+streamlit
+mcp[cli]
+python-dotenv
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+pypdf
+unstructured[docx,ppt,csv]
+python-docx
+python-pptx
+textloader
+docx2txt
+ 

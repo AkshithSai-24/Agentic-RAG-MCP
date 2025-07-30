@@ -89,7 +89,7 @@ with st.sidebar:
         type=["pdf", "txt", "md", "docx", "pptx", "csv"]
     )
     st.sidebar.markdown("---")
-    st.sidebar.markdown("Developed by Akshith Sai ")
+    st.sidebar.markdown("Developed by Akshith Sai Kondamadugu")
     if uploaded_file is not None:
         # Save the uploaded file to a temporary directory
         if not os.path.exists("uploads"):

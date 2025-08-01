@@ -11,4 +11,4 @@ python-docx
 python-pptx
 textloader
 docx2txt
- 
+ragas

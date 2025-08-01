@@ -1,3 +1,6 @@
 .env
 Test
 __pycache__
+faiss_vector_store
+score.csv
+*.ipynb_checkpoints
